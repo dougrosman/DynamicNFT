@@ -12,8 +12,5 @@ module.exports = {
     },
     port: 9000,
   },
-  externals: {
-    p5: "p5",
-  },
   mode: "development",
 };

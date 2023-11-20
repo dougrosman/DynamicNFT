@@ -5,6 +5,7 @@ import { ethers } from "ethers";
 console.log(camelCase("hello world!"));
 
 console.log("now i just need to import p5...");
+console.log('ok')
 
 document.getElementsByTagName(
   "body"

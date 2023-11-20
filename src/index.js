@@ -1,5 +1,5 @@
 import { camelCase } from "lodash";
-import "p5";
+import p5 from "p5" ;
 import { ethers } from "ethers";
 
 console.log(camelCase("hello world!"));
